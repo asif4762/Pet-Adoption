@@ -1,6 +1,6 @@
 import { useState } from "react";
 import img from "../../../public/Pet-Adoption.png";
-import { Link, NavLink } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
