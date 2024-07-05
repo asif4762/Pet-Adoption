@@ -10,9 +10,9 @@ const Main = () => {
          {/* Routes */}
          <div className='max-w-[90%] mx-auto'>
          <Outlet/>
+         {/* Footer */}
+         <Footer/>
          </div>
-            {/* Footer */}
-            <Footer/>
         </div>
     );
 };
