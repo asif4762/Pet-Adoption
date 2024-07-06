@@ -1,5 +1,5 @@
 import { useState } from "react";
-import img from "../../../public/Pet-Adoption.png";
+import img from "/Pet-Adoption.png";
 import { NavLink } from "react-router-dom";
 
 const Navbar = () => {

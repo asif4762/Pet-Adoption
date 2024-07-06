@@ -1,0 +1,363 @@
+[
+    {
+      "name": "Buddy",
+      "age": "3 years",
+      "breed": "Labrador Retriever",
+      "location": "New York, NY",
+      "description": "Buddy is a friendly and energetic Labrador Retriever looking for an active family.",
+      "image": "buddy.jpg",
+      "imageGallery": [
+        "buddy-1.jpg",
+        "buddy-2.jpg",
+        "buddy-3.jpg"
+      ],
+      "personality": "Playful and affectionate, loves outdoor activities.",
+      "history": "Rescued from a shelter, Buddy is healthy and well-socialized.",
+      "medicalNotes": "Up-to-date with vaccinations, neutered.",
+      "adoptionRequirements": "Buddy needs a home with a fenced yard and preferably with experience in handling large dogs.",
+      "adopted": false
+    },
+    {
+      "name": "Luna",
+      "age": "2 years",
+      "breed": "Golden Retriever",
+      "location": "Los Angeles, CA",
+      "description": "Luna is a sweet and gentle Golden Retriever who loves cuddles and fetch.",
+      "image": "luna.jpg",
+      "imageGallery": [
+        "luna-1.jpg",
+        "luna-2.jpg",
+        "luna-3.jpg"
+      ],
+      "personality": "Friendly with everyone, enjoys playing with toys.",
+      "history": "Owner surrendered due to moving, Luna is in good health and loves attention.",
+      "medicalNotes": "Spayed, vaccinated, and microchipped.",
+      "adoptionRequirements": "Luna would thrive in a home with a yard and an active lifestyle.",
+      "adopted": false
+    },
+    {
+      "name": "Max",
+      "age": "4 years",
+      "breed": "German Shepherd",
+      "location": "Chicago, IL",
+      "description": "Max is a loyal and intelligent German Shepherd seeking a loving and committed family.",
+      "image": "max.jpg",
+      "imageGallery": [
+        "max-1.jpg",
+        "max-2.jpg",
+        "max-3.jpg"
+      ],
+      "personality": "Smart, protective, and enjoys learning new commands.",
+      "history": "Found as a stray, Max has been trained and socialized.",
+      "medicalNotes": "Neutered, up-to-date on vaccinations.",
+      "adoptionRequirements": "Max needs an experienced owner who understands the breed and can provide mental stimulation.",
+      "adopted": false
+    },
+    {
+      "name": "Milo",
+      "age": "1 year",
+      "breed": "French Bulldog",
+      "location": "Miami, FL",
+      "description": "Milo is a playful and affectionate French Bulldog looking for a loving home.",
+      "image": "milo.jpg",
+      "imageGallery": [
+        "milo-1.jpg",
+        "milo-2.jpg",
+        "milo-3.jpg"
+      ],
+      "personality": "Funny, loves attention, and enjoys short walks.",
+      "history": "Surrendered by previous owner, Milo is in good health and loves to play with toys.",
+      "medicalNotes": "Vaccinated, microchipped, and in good health.",
+      "adoptionRequirements": "Milo would do well in a home with a family that enjoys indoor activities and can provide companionship.",
+      "adopted": false
+    },
+    {
+      "name": "Sophie",
+      "age": "2 years",
+      "breed": "Poodle",
+      "location": "Seattle, WA",
+      "description": "Sophie is a gentle and intelligent Poodle who loves to be pampered.",
+      "image": "sophie.jpg",
+      "imageGallery": [
+        "sophie-1.jpg",
+        "sophie-2.jpg",
+        "sophie-3.jpg"
+      ],
+      "personality": "Calm, well-behaved, and enjoys learning new tricks.",
+      "history": "Rescued from neglect, Sophie has recovered and is ready for a loving home.",
+      "medicalNotes": "Spayed, vaccinated, and microchipped.",
+      "adoptionRequirements": "Sophie needs a home with a comfortable space and someone who can spend time grooming her.",
+      "adopted": false
+    },
+    {
+      "name": "Rocky",
+      "age": "5 years",
+      "breed": "Boxer",
+      "location": "Houston, TX",
+      "description": "Rocky is a loyal and energetic Boxer who loves outdoor adventures.",
+      "image": "rocky.jpg",
+      "imageGallery": [
+        "rocky-1.jpg",
+        "rocky-2.jpg",
+        "rocky-3.jpg"
+      ],
+      "personality": "Playful, affectionate, and protective of his family.",
+      "history": "Surrendered due to owner's health issues, Rocky is healthy and loves to play fetch.",
+      "medicalNotes": "Neutered, vaccinated, and in good health.",
+      "adoptionRequirements": "Rocky would do well in an active home where he can get regular exercise and attention.",
+      "adopted": false
+    },
+    {
+      "name": "Coco",
+      "age": "4 years",
+      "breed": "Shih Tzu",
+      "location": "San Francisco, CA",
+      "description": "Coco is a sweet and charming Shih Tzu who loves to cuddle.",
+      "image": "coco.jpg",
+      "imageGallery": [
+        "coco-1.jpg",
+        "coco-2.jpg",
+        "coco-3.jpg"
+      ],
+      "personality": "Affectionate, enjoys lounging, and loves attention.",
+      "history": "Rescued from neglect, Coco has recovered and is looking for a loving home.",
+      "medicalNotes": "Spayed, vaccinated, and in good health.",
+      "adoptionRequirements": "Coco needs a calm environment and someone who can provide regular grooming and companionship.",
+      "adopted": false
+    },
+    {
+      "name": "Charlie",
+      "age": "3 years",
+      "breed": "Border Collie",
+      "location": "Denver, CO",
+      "description": "Charlie is a smart and energetic Border Collie who loves agility training.",
+      "image": "charlie.jpg",
+      "imageGallery": [
+        "charlie-1.jpg",
+        "charlie-2.jpg",
+        "charlie-3.jpg"
+      ],
+      "personality": "Intelligent, loyal, and loves to learn new tricks.",
+      "history": "Owner surrendered due to moving, Charlie is healthy and enjoys playing fetch.",
+      "medicalNotes": "Neutered, vaccinated, and microchipped.",
+      "adoptionRequirements": "Charlie needs an experienced owner who understands the breed and can provide mental and physical stimulation.",
+      "adopted": false
+    },
+    {
+      "name": "Mia",
+      "age": "2 years",
+      "breed": "Dachshund",
+      "location": "Boston, MA",
+      "description": "Mia is a playful and affectionate Dachshund who loves to explore.",
+      "image": "mia.jpg",
+      "imageGallery": [
+        "mia-1.jpg",
+        "mia-2.jpg",
+        "mia-3.jpg"
+      ],
+      "personality": "Curious, loves to snuggle, and enjoys short walks.",
+      "history": "Surrendered by previous owner, Mia is in good health and loves to play with toys.",
+      "medicalNotes": "Vaccinated, spayed, and in good health.",
+      "adoptionRequirements": "Mia would thrive in a home where she can get plenty of attention and playtime.",
+      "adopted": false
+    },
+    {
+      "name": "Jack",
+      "age": "4 years",
+      "breed": "Jack Russell Terrier",
+      "location": "Austin, TX",
+      "description": "Jack is a spirited and intelligent Jack Russell Terrier who loves to run and play.",
+      "image": "jack.jpg",
+      "imageGallery": [
+        "jack-1.jpg",
+        "jack-2.jpg",
+        "jack-3.jpg"
+      ],
+      "personality": "Energetic, playful, and loves outdoor activities.",
+      "history": "Found as a stray, Jack has been trained and is social with other dogs.",
+      "medicalNotes": "Neutered, vaccinated, and in good health.",
+      "adoptionRequirements": "Jack needs an active home where he can get regular exercise and mental stimulation.",
+      "adopted": false
+    },
+    {
+      "name": "Bella",
+      "age": "3 years",
+      "breed": "Beagle",
+      "location": "Portland, OR",
+      "description": "Bella is a gentle and affectionate Beagle who loves exploring the outdoors.",
+      "image": "bella.jpg",
+      "imageGallery": [
+        "bella-1.jpg",
+        "bella-2.jpg",
+        "bella-3.jpg"
+      ],
+      "personality": "Friendly, curious, and enjoys sniffing around.",
+      "history": "Rescued from a neglectful situation, Bella is now healthy and ready for a loving home.",
+      "medicalNotes": "Spayed, vaccinated, and in good health.",
+      "adoptionRequirements": "Bella needs a home with a fenced yard and someone who enjoys taking walks.",
+      "adopted": false
+    },
+    {
+      "name": "Oscar",
+      "age": "2 years",
+      "breed": "Cocker Spaniel",
+      "location": "Phoenix, AZ",
+      "description": "Oscar is a charming and friendly Cocker Spaniel who loves being around people.",
+      "image": "oscar.jpg",
+      "imageGallery": [
+        "oscar-1.jpg",
+        "oscar-2.jpg",
+        "oscar-3.jpg"
+      ],
+      "personality": "Affectionate, gentle, and enjoys being groomed.",
+      "history": "Surrendered by previous owner, Oscar is in good health and loves to play fetch.",
+      "medicalNotes": "Vaccinated, neutered, and microchipped.",
+      "adoptionRequirements": "Oscar would do well in a home where he can be part of the family and receive regular grooming.",
+      "adopted": false
+    },
+    {
+      "name": "Ruby",
+      "age": "1 year",
+      "breed": "Siberian Husky",
+      "location": "Atlanta, GA",
+      "description": "Ruby is a playful and energetic Siberian Husky who loves outdoor adventures.",
+      "image": "ruby.jpg",
+      "imageGallery": [
+        "ruby-1.jpg",
+        "ruby-2.jpg",
+        "ruby-3.jpg"
+      ],
+      "personality": "Active, intelligent, and loves to run.",
+      "history": "Owner surrendered due to moving, Ruby is healthy and enjoys playing with other dogs.",
+      "medicalNotes": "Spayed, vaccinated, and in good health.",
+      "adoptionRequirements": "Ruby needs a home with a fenced yard and someone who can provide regular exercise and mental stimulation.",
+      "adopted": false
+    },
+    {
+      "name": "Lola",
+      "age": "4 years",
+      "breed": "Chihuahua",
+      "location": "Dallas, TX",
+      "description": "Lola is a tiny and affectionate Chihuahua who loves to cuddle.",
+      "image": "lola.jpg",
+      "imageGallery": [
+        "lola-1.jpg",
+        "lola-2.jpg",
+        "lola-3.jpg"
+      ],
+      "personality": "Sweet, loyal, and enjoys being carried around.",
+      "history": "Rescued from neglect, Lola is now healthy and ready for a loving home.",
+      "medicalNotes": "Spayed, vaccinated, and microchipped.",
+      "adoptionRequirements": "Lola needs a calm environment and someone who can provide companionship and care.",
+      "adopted": false
+    },
+    {
+      "name": "Sammy",
+      "age": "3 years",
+      "breed": "Australian Shepherd",
+      "location": "San Diego, CA",
+      "description": "Sammy is a smart and active Australian Shepherd who loves to play fetch.",
+      "image": "sammy.jpg",
+      "imageGallery": [
+        "sammy-1.jpg",
+        "sammy-2.jpg",
+        "sammy-3.jpg"
+      ],
+      "personality": "Intelligent, energetic, and enjoys learning new tricks.",
+      "history": "Found as a stray, Sammy has been trained and is social with other dogs.",
+      "medicalNotes": "Neutered, vaccinated, and in good health.",
+      "adoptionRequirements": "Sammy needs an active home where he can get regular exercise and mental stimulation.",
+      "adopted": false
+    },
+    {
+      "name": "Molly",
+      "age": "2 years",
+      "breed": "Pug",
+      "location": "Las Vegas, NV",
+      "description": "Molly is a playful and loving Pug who enjoys being the center of attention.",
+      "image": "molly.jpg",
+      "imageGallery": [
+        "molly-1.jpg",
+        "molly-2.jpg",
+        "molly-3.jpg"
+      ],
+      "personality": "Cheerful, affectionate, and loves to snuggle.",
+      "history": "Owner surrendered due to personal reasons, Molly is healthy and loves to play with toys.",
+      "medicalNotes": "Vaccinated, spayed, and in good health.",
+      "adoptionRequirements": "Molly would do well in a home where she can receive attention and care.",
+      "adopted": false
+    },
+    {
+      "name": "Leo",
+      "age": "4 years",
+      "breed": "Rottweiler",
+      "location": "Philadelphia, PA",
+      "description": "Leo is a strong and loyal Rottweiler who enjoys outdoor activities.",
+      "image": "leo.jpg",
+      "imageGallery": [
+        "leo-1.jpg",
+        "leo-2.jpg",
+        "leo-3.jpg"
+      ],
+      "personality": "Protective, intelligent, and loves to play with toys.",
+      "history": "Surrendered due to owner's health issues, Leo is healthy and well-trained.",
+      "medicalNotes": "Neutered, vaccinated, and in good health.",
+      "adoptionRequirements": "Leo needs an experienced owner who understands the breed and can provide proper training and exercise.",
+      "adopted": false
+    },
+    {
+      "name": "Lucy",
+      "age": "3 years",
+      "breed": "Shiba Inu",
+      "location": "Washington, DC",
+      "description": "Lucy is an independent yet affectionate Shiba Inu who enjoys exploring her surroundings.",
+      "image": "lucy.jpg",
+      "imageGallery": [
+        "lucy-1.jpg",
+        "lucy-2.jpg",
+        "lucy-3.jpg"
+      ],
+      "personality": "Alert, loyal, and prefers to observe before engaging.",
+      "history": "Rescued from neglect, Lucy is now healthy and ready for a loving home.",
+      "medicalNotes": "Spayed, vaccinated, and in good health.",
+      "adoptionRequirements": "Lucy needs a patient owner who understands her breed traits and can provide mental stimulation.",
+      "adopted": false
+    },
+    {
+      "name": "Buster",
+      "age": "2 years",
+      "breed": "Bulldog",
+      "location": "Nashville, TN",
+      "description": "Buster is a laid-back and affectionate Bulldog who loves to nap.",
+      "image": "buster.jpg",
+      "imageGallery": [
+        "buster-1.jpg",
+        "buster-2.jpg",
+        "buster-3.jpg"
+      ],
+      "personality": "Relaxed, friendly, and enjoys being around people.",
+      "history": "Surrendered due to owner's relocation, Buster is healthy and loves to play with toys.",
+      "medicalNotes": "Neutered, vaccinated, and in good health.",
+      "adoptionRequirements": "Buster would do well in a home where he can relax and receive plenty of attention.",
+      "adopted": false
+    },
+    {
+      "name": "Ginger",
+      "age": "1 year",
+      "breed": "Labradoodle",
+      "location": "Orlando, FL",
+      "description": "Ginger is a playful and intelligent Labradoodle who enjoys playing fetch.",
+      "image": "ginger.jpg",
+      "imageGallery": [
+        "ginger-1.jpg",
+        "ginger-2.jpg",
+        "ginger-3.jpg"
+      ],
+      "personality": "Energetic, affectionate, and loves to be around people.",
+      "history": "Rescued from neglect, Ginger has recovered and is looking for a loving home.",
+      "medicalNotes": "Spayed, vaccinated, and microchipped.",
+      "adoptionRequirements": "Ginger needs an active home where she can get regular exercise and mental stimulation.",
+      "adopted": false
+    }
+  ]
+  
