@@ -194,31 +194,32 @@
       "adopted": false
   },
   {
-      "name": "Coco",
-      "age": "4 years",
-      "breed": "Shih Tzu",
-      "location": "Los Angeles, CA",
-      "description": "Coco is a sweet and playful Shih Tzu looking for a loving and caring family.",
-      "image": "coco.jpg",
-      "imageGallery": [
-          "coco-1.jpg",
-          "coco-2.jpg",
-          "coco-3.jpg"
-      ],
-      "personality": "Friendly, enjoys being around people, and loves belly rubs.",
-      "history": "Surrendered due to owner moving abroad, Coco is healthy and enjoys playing with toys.",
-      "medicalNotes": "Spayed, vaccinated, and microchipped.",
-      "adoptionRequirements": "Coco needs a home with a cozy space and someone who can provide daily walks and companionship.",
-      "category": "dog",
-      "adopted": false
-  },
+    "name": "Coco",
+    "age": "4 years",
+    "breed": "Shih Tzu",
+    "location": "Los Angeles, CA",
+    "description": "Coco is a sweet and playful Shih Tzu looking for a loving and caring family.",
+    "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgByBT5IiAT_a2x9pUVb4VMoOrlzHH7Jrzj-HB5jzHlR4lNLMS",
+    "imageGallery": [
+      "https://images.unsplash.com/photo-1609958597639-326263318b8e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "https://images.unsplash.com/photo-1594818408189-9b792a11eb0e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
+      "https://images.unsplash.com/photo-1623815429638-4a0570a72345?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
+    ],
+    "personality": "Friendly, enjoys being around people, and loves belly rubs.",
+    "history": "Surrendered due to owner moving abroad, Coco is healthy and enjoys playing with toys.",
+    "medicalNotes": "Spayed, vaccinated, and microchipped.",
+    "adoptionRequirements": "Coco needs a home with a cozy space and someone who can provide daily walks and companionship.",
+    "category": "dog",
+    "adopted": false
+  }
+  ,
   {
       "name": "Oliver",
       "age": "2 years",
       "breed": "Siamese",
       "location": "New York, NY",
       "description": "Oliver is an affectionate Siamese cat looking for a quiet and loving home.",
-      "image": "oliver.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF1IwK6-SxM83UpFVY6WtUZxXx-phss_gAUfdKbkTfau6VWVkt",
       "imageGallery": [
           "oliver-1.jpg",
           "oliver-2.jpg",
@@ -237,7 +238,7 @@
       "breed": "Bengal",
       "location": "Los Angeles, CA",
       "description": "Simba is a playful and curious Bengal cat seeking a loving family.",
-      "image": "simba.jpg",
+      "image": "https://cdn.britannica.com/70/234870-050-D4D024BB/Orange-colored-cat-yawns-displaying-teeth.jpg",
       "imageGallery": [
           "simba-1.jpg",
           "simba-2.jpg",
@@ -256,7 +257,7 @@
       "breed": "Ragdoll",
       "location": "Chicago, IL",
       "description": "Mittens is a gentle and affectionate Ragdoll cat looking for a calm and loving home.",
-      "image": "mittens.jpg",
+      "image": "https://headsupfortails.com/cdn/shop/articles/Cat_s_Mind.jpg?v=1624444348",
       "imageGallery": [
           "mittens-1.jpg",
           "mittens-2.jpg",
@@ -275,7 +276,7 @@
       "breed": "Dutch Rabbit",
       "location": "Seattle, WA",
       "description": "Oreo is a friendly and curious Dutch Rabbit looking for a loving home with space to hop around.",
-      "image": "oreo.jpg",
+      "image": "https://www.humanesociety.org/sites/default/files/2019/03/rabbit-475261_0.jpg",
       "imageGallery": [
           "oreo-1.jpg",
           "oreo-2.jpg",
@@ -294,7 +295,7 @@
       "breed": "Hamster",
       "location": "San Francisco, CA",
       "description": "Peanut is a curious and active Hamster who loves to explore and play in her cage.",
-      "image": "peanut.jpg",
+      "image": "https://i.natgeofe.com/k/2fedc730-e8a5-4d86-896b-a32317dafc0a/hamsters-golden-cheeks_3x4.jpg",
       "imageGallery": [
           "peanut-1.jpg",
           "peanut-2.jpg",
@@ -313,7 +314,7 @@
       "breed": "Labrador Retriever",
       "location": "Houston, TX",
       "description": "Harley is a loyal and affectionate Labrador Retriever looking for an active family.",
-      "image": "harley.jpg",
+      "image": "https://hips.hearstapps.com/ghk.h-cdn.co/assets/17/30/bernese-mountain-dog.jpg?crop=1.00xw:0.668xh;0,0.252xh&resize=640:*",
       "imageGallery": [
           "harley-1.jpg",
           "harley-2.jpg",
@@ -332,7 +333,7 @@
       "breed": "Golden Retriever",
       "location": "Los Angeles, CA",
       "description": "Bella is a sweet and gentle Golden Retriever who loves to cuddle and play fetch.",
-      "image": "bella.jpg",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/large-dogs-australian-shepherd-1586306132.jpg?crop=0.8890371358683568xw:1xh;center,top&resize=980:*",
       "imageGallery": [
           "bella-1.jpg",
           "bella-2.jpg",
@@ -351,7 +352,7 @@
       "breed": "Domestic Shorthair",
       "location": "Chicago, IL",
       "description": "Loki is a playful and curious Domestic Shorthair cat looking for a loving and interactive home.",
-      "image": "loki.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREaHn8RbpImCte5BscbdDSLN9ni94r1I7Tcj6TPnKc3k1FHtx8eIjqqs4Dm4jHldxIzl8&usqp=CAU",
       "imageGallery": [
           "loki-1.jpg",
           "loki-2.jpg",
@@ -370,7 +371,7 @@
       "breed": "Siberian Husky",
       "location": "Miami, FL",
       "description": "Sasha is a friendly and energetic Siberian Husky looking for an active family.",
-      "image": "sasha.jpg",
+      "image": "https://images.newscientist.com/wp-content/uploads/2022/04/05152010/SEI_97255351.jpg",
       "imageGallery": [
           "sasha-1.jpg",
           "sasha-2.jpg",
@@ -389,7 +390,7 @@
       "breed": "Ragdoll",
       "location": "New York, NY",
       "description": "Nala is a gentle and affectionate Ragdoll cat looking for a calm and loving home.",
-      "image": "nala.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDim25Sj5loXJbpYM0NKMZI2geNtFbDme5A&s",
       "imageGallery": [
           "nala-1.jpg",
           "nala-2.jpg",
@@ -408,7 +409,7 @@
       "breed": "Maine Coon",
       "location": "Seattle, WA",
       "description": "Chloe is a playful and affectionate Maine Coon cat looking for a caring family.",
-      "image": "chloe.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxBymMG_TfIXTIIRRhRJJiI5b2t5nKYabERw&s",
       "imageGallery": [
           "chloe-1.jpg",
           "chloe-2.jpg",
@@ -427,7 +428,7 @@
       "breed": "Beagle",
       "location": "Houston, TX",
       "description": "Toby is a friendly and curious Beagle looking for a loving home.",
-      "image": "toby.jpg",
+      "image": "https://static01.nyt.com/images/2024/01/16/multimedia/16xp-dog-01-lchw/16xp-dog-01-lchw-superJumbo.jpg",
       "imageGallery": [
           "toby-1.jpg",
           "toby-2.jpg",
@@ -446,7 +447,7 @@
       "breed": "Siamese",
       "location": "Miami, FL",
       "description": "Leo is an affectionate Siamese cat looking for a quiet and loving home.",
-      "image": "leo.jpg",
+      "image": "https://cdn.theatlantic.com/thumbor/d8lh_KAZuOgBYslMOP4T0iu9Fks=/0x62:2000x1187/1600x900/media/img/mt/2018/03/AP_325360162607/original.jpg",
       "imageGallery": [
           "leo-1.jpg",
           "leo-2.jpg",
@@ -465,7 +466,7 @@
       "breed": "Persian",
       "location": "New York, NY",
       "description": "Misty is a fluffy and affectionate Persian cat looking for a calm and loving home.",
-      "image": "misty.jpg",
+      "image": "https://www.wfla.com/wp-content/uploads/sites/71/2023/05/GettyImages-1389862392.jpg?w=2560&h=1440&crop=1",
       "imageGallery": [
           "misty-1.jpg",
           "misty-2.jpg",
@@ -484,7 +485,7 @@
       "breed": "Dachshund",
       "location": "Seattle, WA",
       "description": "Cookie is a playful and affectionate Dachshund looking for a loving home.",
-      "image": "cookie.jpg",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/10/23/USAT/71291065007-16-x-9-thumbnail-bobi.jpg?crop=1919,1079,x0,y0&width=660&height=371&format=pjpg&auto=webp",
       "imageGallery": [
           "cookie-1.jpg",
           "cookie-2.jpg",
@@ -503,7 +504,7 @@
       "breed": "Shiba Inu",
       "location": "San Francisco, CA",
       "description": "Mochi is a loyal and intelligent Shiba Inu looking for a loving and committed family.",
-      "image": "mochi.jpg",
+      "image": "https://people.com/thmb/whreakhSGQvaW5VWPZLXGtB0riU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(1079x278:1081x280)/bobi-worlds-oldest-dog-051223-1-cf1da82b429c43b8a9076e62ec24bc90.jpg",
       "imageGallery": [
           "mochi-1.jpg",
           "mochi-2.jpg",
@@ -522,7 +523,7 @@
       "breed": "Labrador Retriever",
       "location": "Houston, TX",
       "description": "Charlie is a friendly and energetic Labrador Retriever looking for an active family.",
-      "image": "charlie.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh5kF-cswVf1Mcd4iSGiL3Hn8sGYQTIpDi7kW6ot3x2GAHi3mgNi9ILGB5IfP7pnAfT48&usqp=CAU",
       "imageGallery": [
           "charlie-1.jpg",
           "charlie-2.jpg",
@@ -541,7 +542,7 @@
       "breed": "Golden Retriever",
       "location": "Los Angeles, CA",
       "description": "Lucy is a sweet and gentle Golden Retriever who loves cuddles and fetch.",
-      "image": "lucy.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTiIjkReA6z8PM3cZQNBd-cI65NCM_mgC4xpcC-IboFeJ8WzeYb5-BhFhNOuUQYQGylC8&usqp=CAU",
       "imageGallery": [
           "lucy-1.jpg",
           "lucy-2.jpg",
@@ -560,7 +561,7 @@
       "breed": "Persian",
       "location": "Chicago, IL",
       "description": "Snowflake is a fluffy and affectionate Persian cat looking for a calm and loving home.",
-      "image": "snowflake.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB_PC93m0bHPZUpGZ1yen5N6-9dRT0Se_18A&s",
       "imageGallery": [
           "snowflake-1.jpg",
           "snowflake-2.jpg",
@@ -579,7 +580,7 @@
       "breed": "Maine Coon",
       "location": "Miami, FL",
       "description": "Whiskey is a playful and affectionate Maine Coon cat looking for a caring family.",
-      "image": "whiskey.jpg",
+      "image": "https://static.scientificamerican.com/sciam/cache/file/32665E6F-8D90-4567-9769D59E11DB7F26_source.jpg?w=1200",
       "imageGallery": [
           "whiskey-1.jpg",
           "whiskey-2.jpg",
@@ -598,7 +599,7 @@
       "breed": "Siamese",
       "location": "San Francisco, CA",
       "description": "Rocky is an affectionate Siamese cat looking for a quiet and loving home.",
-      "image": "rocky.jpg",
+      "image": "https://www.alleycat.org/wp-content/uploads/2019/03/FELV-cat.jpg",
       "imageGallery": [
           "rocky-1.jpg",
           "rocky-2.jpg",
@@ -617,7 +618,7 @@
       "breed": "Golden Retriever",
       "location": "Los Angeles, CA",
       "description": "Teddy is a friendly and loyal Golden Retriever who enjoys outdoor activities.",
-      "image": "teddy.jpg",
+      "image": "https://media.greenmatters.com/brand-img/npB9TGZij/0x0/oldest-living-dog-bobi-2-1675892681421.jpg",
       "imageGallery": [
           "teddy-1.jpg",
           "teddy-2.jpg",
@@ -636,7 +637,7 @@
       "breed": "Domestic Shorthair",
       "location": "Chicago, IL",
       "description": "Cinnamon is a playful and curious Domestic Shorthair cat looking for a loving and interactive home.",
-      "image": "cinnamon.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMC1DaM7y763txQoOusf1ou9DZ_iQSpnuTcA&s",
       "imageGallery": [
           "cinnamon-1.jpg",
           "cinnamon-2.jpg",
@@ -655,7 +656,7 @@
       "breed": "Beagle",
       "location": "Houston, TX",
       "description": "Lucky is a friendly and curious Beagle looking for a loving home.",
-      "image": "lucky.jpg",
+      "image": "https://i.dailymail.co.uk/1s/2023/07/06/12/72916459-12270413-image-a-55_1688642117472.jpg",
       "imageGallery": [
           "lucky-1.jpg",
           "lucky-2.jpg",
@@ -674,7 +675,7 @@
       "breed": "Maine Coon",
       "location": "Miami, FL",
       "description": "Sunny is a playful and affectionate Maine Coon cat looking for a caring family.",
-      "image": "sunny.jpg",
+      "image": "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg",
       "imageGallery": [
           "sunny-1.jpg",
           "sunny-2.jpg",
@@ -693,7 +694,7 @@
       "breed": "Domestic Shorthair",
       "location": "Los Angeles, CA",
       "description": "Ziggy is a sweet and affectionate Domestic Shorthair cat looking for a loving home.",
-      "image": "ziggy.jpg",
+      "image": "https://cdn.britannica.com/34/235834-050-C5843610/two-different-breeds-of-cats-side-by-side-outdoors-in-the-garden.jpg",
       "imageGallery": [
           "ziggy-1.jpg",
           "ziggy-2.jpg",
@@ -712,7 +713,7 @@
       "breed": "Golden Retriever",
       "location": "Seattle, WA",
       "description": "Tucker is a friendly and loyal Golden Retriever who enjoys outdoor activities.",
-      "image": "tucker.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXzcFJl60sLQMILdqblKWVb9C33VDTnCr3Zg&s",
       "imageGallery": [
           "tucker-1.jpg",
           "tucker-2.jpg",
@@ -731,7 +732,7 @@
       "breed": "Golden Retriever",
       "location": "Houston, TX",
       "description": "Lola is a sweet and gentle Golden Retriever who loves cuddles and fetch.",
-      "image": "lola.jpg",
+      "image": "https://qph.cf2.quoracdn.net/main-qimg-9b2a0a78dee21b14e325a999aa3473ec-pjlq",
       "imageGallery": [
           "lola-1.jpg",
           "lola-2.jpg",

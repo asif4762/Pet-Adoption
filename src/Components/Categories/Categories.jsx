@@ -1,16 +1,21 @@
-import { useEffect, useState } from "react";
 import CategoryCard from "./CategoryCard";
 import Dropdown from "./DropDown";
 import { AiOutlineLoading3Quarters } from "react-icons/ai";
+import { useQuery } from "@tanstack/react-query";
+import useAxiosCommon from "../../Hooks/useAxiosCommon";
 
 const Categories = () => {
-  const [all, setAll] = useState();
 
-  useEffect(() => {
-    fetch("pets.json")
-      .then((res) => res.json())
-      .then((data) => setAll(data));
-  }, []);
+  const axiosCommon = useAxiosCommon();
+  const {data: pets, isLoading, isError} = useQuery({
+    queryKey: ['pets'],
+    queryFn: async () =>{
+      const res = await axiosCommon.get('/pets')
+      return res.data;
+    }
+  })
+
+  console.log(pets);
 
   return (
     <div className="py-10">
@@ -23,14 +28,14 @@ const Categories = () => {
 
       <div className="mx-auto max-w-screen-lg">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-          {all ? (
-            all.map((category) => (
-              <CategoryCard key={category.id} category={category} />
-            ))
-          ) : (
+          {isLoading ? (
             <div className="col-span-3 flex items-center justify-center">
               <AiOutlineLoading3Quarters className="animate-spin text-4xl text-gray-500" />
             </div>
+          ) : (
+            pets.map((category) => (
+              <CategoryCard key={category.id} category={category} />
+            ))
           )}
         </div>
       </div>

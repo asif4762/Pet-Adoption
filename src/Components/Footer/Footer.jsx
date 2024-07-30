@@ -1,5 +1,5 @@
 import { FaFacebook, FaGithub } from "react-icons/fa";
-import img from "../../../public/Pet-Adoption.png";
+import img from "/Pet-Adoption.png";
 import { IoLogoTwitter } from "react-icons/io";
 
 const Footer = () => {
